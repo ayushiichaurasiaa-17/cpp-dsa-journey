@@ -23,6 +23,7 @@ My C++ and DSA learning journey,including daily problem solving and implementati
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0704-binary-search) |
+| [0941-valid-mountain-array](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0941-valid-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
