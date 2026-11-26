@@ -12,6 +12,7 @@ My C++ and DSA learning journey,including daily problem solving and implementati
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -61,4 +62,8 @@ My C++ and DSA learning journey,including daily problem solving and implementati
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0150-evaluate-reverse-polish-notation) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
