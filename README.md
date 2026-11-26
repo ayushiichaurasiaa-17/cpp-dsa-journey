@@ -22,12 +22,14 @@ My C++ and DSA learning journey,including daily problem solving and implementati
 | [0075-sort-colors](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0162-find-peak-element) |
+| [0704-binary-search](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0278-first-bad-version) |
+| [0704-binary-search](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
