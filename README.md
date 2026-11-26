@@ -11,6 +11,7 @@ My C++ and DSA learning journey,including daily problem solving and implementati
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -21,6 +22,7 @@ My C++ and DSA learning journey,including daily problem solving and implementati
 | [0015-3sum](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0075-sort-colors) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0704-binary-search) |
@@ -55,4 +57,8 @@ My C++ and DSA learning journey,including daily problem solving and implementati
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0278-first-bad-version) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ayushiichaurasiaa-17/cpp-dsa-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
